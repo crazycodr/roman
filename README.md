@@ -5,7 +5,7 @@ ROMAN
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/crazycodr/roman/master.svg?style=flat-square)](https://travis-ci.org/crazycodr/roman)
 [![HHVM Status](https://img.shields.io/hhvm/league/csv.svg?style=flat-square)](http://hhvm.h4cc.de/package/league/csv)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/csv.svg?style=flat-square)](https://packagist.org/packages/league/csv)
+[![Total Downloads](https://img.shields.io/packagist/dt/crazycodr/roman.svg?style=flat-square)](https://packagist.org/packages/league/csv)
 
 Roman is a simple library to convert numbers from decimal to roman and vice versa.
 
