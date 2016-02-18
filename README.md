@@ -21,7 +21,9 @@ $number = $converter->fromRoman('MMMMCMXCIX'); //Outputs 4999
 System Requirements
 -------
 
-You need **PHP >= 5.5.0**
+You need **PHP >= 5.0** although you should be using at least **PHP >= 5.6** by now!
+
+Note that this library is only tested against PHP 5.6, 7.0 and HHVM but should work in any version!
 
 Install
 -------
