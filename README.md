@@ -41,11 +41,6 @@ Testing
 $ composer test
 ```
 
-Contributing
--------
-
-Contributions are welcome!
-
 License
 -------
 
