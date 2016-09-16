@@ -8,7 +8,6 @@ namespace CrazyCodr\Converters;
  */
 class Roman
 {
-
     const I = 1;
     const V = 5;
     const X = 10;
