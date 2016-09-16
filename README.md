@@ -4,8 +4,8 @@ ROMAN
 [![Latest Version](https://img.shields.io/github/release/crazycodr/roman.svg?style=flat-square)](https://github.com/crazycodr/roman/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/crazycodr/roman/master.svg?style=flat-square)](https://travis-ci.org/crazycodr/roman)
-[![HHVM Status](https://img.shields.io/hhvm/league/csv.svg?style=flat-square)](http://hhvm.h4cc.de/package/league/csv)
-[![Total Downloads](https://img.shields.io/packagist/dt/crazycodr/roman.svg?style=flat-square)](https://packagist.org/packages/league/csv)
+[![HHVM Status](https://img.shields.io/hhvm/crazycodr/roman.svg?style=flat-square)](http://hhvm.h4cc.de/package/crazycodr/roman)
+[![Total Downloads](https://img.shields.io/packagist/dt/crazycodr/roman.svg?style=flat-square)](https://packagist.org/packages/crazycodr/roman)
 
 Roman is a simple library to convert numbers from decimal to roman and vice versa.
 
