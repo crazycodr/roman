@@ -82,7 +82,7 @@ class Roman
     public function fromRoman($roman)
     {
         $number = 0;
-        $roman = $roman = str_replace($this->getRomanExceptions(), array_keys($this->getRomanExceptions()), $roman);
+        $roman = str_replace($this->getRomanExceptions(), array_keys($this->getRomanExceptions()), $roman);
         foreach ($this->getRomanValues() as $romanValue => $numberValue) {
             $number += $numberValue * substr_count($roman, $romanValue);
         }
