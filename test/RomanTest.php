@@ -4,7 +4,7 @@ namespace CrazyCodr\Converters\Test;
 use CrazyCodr\Converters\Roman;
 use League\Csv\Reader;
 
-class RomanTest extends \PHPUnit_Framework_TestCase
+class RomanTest extends \PHPUnit\Framework\TestCase
 {
 
     /**
