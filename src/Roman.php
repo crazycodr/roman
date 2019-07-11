@@ -2,7 +2,7 @@
 namespace CrazyCodr\Converters;
 
 /**
- * Represents a converter able to convert from and to roman values
+ * Represents a converter able to convert from and to roman values.
  *
  * @package CrazyCodr\Converters
  */
